@@ -1,0 +1,86 @@
+body{
+    text-align: center;
+}
+
+td{
+    width: 8px;
+    height: 6px;
+    border:0.2px solid grey;
+   
+    
+    
+}
+h1{
+    margin-bottom: -10px;
+}
+
+.middiv{
+    
+    justify-items: center;
+}
+
+div.tab{
+    width:500px;
+    height: 500px;
+    border-width: 0px;
+    text-align:center;
+    padding: 0px;
+   display: inline-block;
+    
+   
+    margin:50px;
+    position: absolute;
+    left: 30%;
+
+    
+}
+
+button.clk{
+    width:6em;
+    height: 2em;
+    border: 0;
+    background-color: #2a79a3;
+    
+    
+    margin: 8px;
+    border-radius: 8px;
+    color:black;
+    font-size: 20px;
+    letter-spacing: 0.25em;
+    border-top: 20px;
+    
+
+}
+button.clrBtn{
+letter-spacing: 0em;
+}
+
+button.Pickclr{
+    width: 4em;
+    height: 1.5em;
+    letter-spacing: 0em;
+    margin-left: 0;
+
+}
+
+p{
+    display: inline;
+}
+
+div.btnP{
+    
+    width:10em;
+    height: 5em;
+    display: inline-table;
+    margin-top: 30px;
+    margin-bottom: -21px;
+}
+
+div.botdiv{
+display: flex;
+flex-direction: column;
+position: relative;
+top:80px;
+left:10em;
+width: fit-content;
+}
